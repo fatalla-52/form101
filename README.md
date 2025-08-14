@@ -9,19 +9,22 @@
   <h1 align="leeminho-southkorean actor and singer"</h1>
     <img src==https://static.toiimg.com/thumb/msid-95488123,imgsize-22294,width-200,height-300,resizemode-6/95488123.jpg>
   <hr>
-  <label for="name">Name:</label><br>
+  <label for="name">Name:</label>
+  <br>
   <input type="text" id="required surename">
   <label>Age</label>
-  <input type=="text id="age" name="age"><br>
+  <input type=="text id="age" name="age">
+  <br>
   <label for="address>Address:</label><br>
-  <input type="text" id="address" name="address"><br>
-
+  <input type="text" id="address" name="address">
+  <br>
   <label>Sex:</label>
   <input type="radio" id="male" name="Sex" value="Male">
   <label for="male"Male:</label>
   <input type="radio" id="female" name="sex" value="Female">
-  <label>female</label><br><br>
-
+  <label>female</label>
+  <br>
+  <br>
   <label for="e-mailadd" </label><br><label>E-mailadd</label>
   <input type="text" id="require surename">
         
