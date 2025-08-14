@@ -9,10 +9,14 @@
   <h1 align="leeminho-southkorean actor and singer"</h1>
   <img src=https://static.toiimg.com/thumb/msid-95488123,imgsize-22294,width-200,height-300,resizemode-6/95488123.jpg alt="leeminho">
   <hr>
-  <label for="name">Name:</label><br>
-  <input type="text" id="required surename">
-  <label>Age</label>
-  <input type=="text id="age" name="age"><br>
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+    </tr>
+    <tr>
+      <td>Address</td>
+      <td>Sex</td>
+    </tr>
     
   <label for="address>Address:</label><br>
   <input type="text" id="address" name="address"><br>
